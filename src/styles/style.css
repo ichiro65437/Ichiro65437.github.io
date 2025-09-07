@@ -1,0 +1,70 @@
+body {
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: gray;
+    text-align:center;
+    size: cover;
+    background-repeat: no-repeat;
+}
+
+.headed{
+    text-align: center;
+}
+
+.Habilidades,.nivel{
+    margin: 10px;
+    background-color:beige;
+    text-align: left;
+
+}
+
+.borders{
+    border: solid #1584e6 1px;
+    border-radius: 25px;
+}
+
+.borders2{
+    border: solid red 1px;
+    border-radius: 25px;
+}
+
+.mapa{
+    position: relative;
+}
+
+.debug_Red{
+    border: 1px solid red;
+}
+
+.debug_green{
+    border: 1px solid green;
+}
+
+.debug_blue{
+    border: 1px solid blue;
+}
+
+.debug_yellow{
+    border: 1px solid yellow;
+}
+
+.debug_cyan{
+    border: 1px solid cyan;
+}
+
+.debug_magenta{
+    border: 1px solid magenta;
+}
+
+.debug_black{
+    border: 1px solid black;
+}
+
+.debug_white{
+    border: 1px solid white;
+}
+
+.jefe_image{
+    width: auto;
+}
+
